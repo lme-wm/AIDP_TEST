@@ -1,0 +1,1 @@
+print("Hello from Oracle AI Data Platform Workbench")
